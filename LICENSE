@@ -1,0 +1,47 @@
+  
+Copyright (c) 2021 WiFi <https://github.com/WiFiFi/mafibot>
+
+------------------------------------------------------------------------------
+
+This project is based on MIT License, except:
+
+*  the binary file `go-cqhttp` under [`gocqhttp`](./gocqhttp), included in this repository,
+   which is licensed under the GNU Affero General Public License.
+   [Here](https://github.com/Mrs4s/go-cqhttp/blob/master/LICENSE) is the original license information.
+
+*  the contents in [`mafi/resources`](./mafi/resources)
+   *  `SourceHanSans-Regular.otf` (Source Han Sans) is Font Software by
+      [Adobe](http://www.adobe.com/) licensed under the SIL Open Font License and is
+      embedded in this project.
+      [Here](https://github.com/adobe-fonts/source-han-sans/blob/master/LICENSE.txt)
+      is the original license information.
+   *  `group_user_check_bg.png` (Lucia) redrawn by [@cleoold](https://twitter.com/cleoold),
+      is derivative work based on the cover of [Dengeki G's magazine](http://gs.dengeki.com/)
+      2011.04 issue. Related literature and characters belong to [August](https://august-soft.com/).
+      Some rights reserved by some or all of the said parties.
+      *  If you deploy this project other than the purposes of learning, you must
+        __use an alternative image__ unless otherwise addressed by the owner of this repository.
+
+A copy of MIT License is attached below.
+
+------------------------------------------------------------------------------
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
