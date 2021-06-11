@@ -1,3 +1,5 @@
-__pycache__/
-gocqhttp/
-config/
+__pycache__
+gocqhttp/data
+gocqhttp/logs
+gocqhttp/device.json
+gocqhttp/session.token
